@@ -1,0 +1,31 @@
+---
+
+---
+
+*{
+	margin:0;
+}
+
+h1{
+    color: blue;
+    font-size: 50px;
+    span{
+        color: blue;
+    }
+}
+
+
+header {
+        clear: both;
+    width: 100%;
+    float: left;
+    margin-bottom: 20px;
+	 a {
+	    padding: 10px;
+    margin: 10px;
+    background: red;
+    color: #fff;
+    text-decoration: none;
+    float: left;
+	}
+}

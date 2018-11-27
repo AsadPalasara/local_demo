@@ -7,3 +7,5 @@ fields:
   name: n_bnmnbb
   label: n,bnmnb
   description: bbnmb
+pages:
+- contact.md

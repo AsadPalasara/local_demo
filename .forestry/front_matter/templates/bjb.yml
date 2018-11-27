@@ -1,0 +1,9 @@
+---
+label: bjb
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: n_bnmnbb
+  label: n,bnmnb
+  description: bbnmb

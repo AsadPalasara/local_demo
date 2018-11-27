@@ -5,7 +5,7 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
-  path: ''
+  path: press-release
   label: press-release
   create: all
   match: "**/*"

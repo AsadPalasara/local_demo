@@ -5,4 +5,4 @@ layout: homepage
 ---
 # Home content here...
 
-> Rest content are soon !!! 
+> Rest content are soon !!!

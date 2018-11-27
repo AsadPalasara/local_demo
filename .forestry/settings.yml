@@ -9,6 +9,8 @@ sections:
   label: press-release
   create: all
   match: "**/*"
+  templates:
+  - bjb
 - type: jekyll-pages
   label: Pages
   create: all
